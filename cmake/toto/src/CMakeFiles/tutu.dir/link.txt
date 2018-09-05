@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtutu.a  CMakeFiles/tutu.dir/tutu.cpp.o
+/usr/bin/ranlib libtutu.a

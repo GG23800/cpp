@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/titi.hpp
+cstdint
+-
+
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/toto.hpp
+
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/tutu.cpp
+titi.hpp
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/titi.hpp
+toto.hpp
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/toto.hpp
+iostream
+-
+tutu.hpp
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/tutu.hpp
+
+/home/jerome/Github/C_Cpp/Github/training/toto2/src/tutu.hpp
+

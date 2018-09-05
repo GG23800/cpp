@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/toto2.dir/main.cpp.o  -o toto2 -rdynamic src/libtutu.a src/libtata.a src/libtoto.a 
